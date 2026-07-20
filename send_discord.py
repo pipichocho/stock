@@ -6,7 +6,7 @@ from discord.ext import commands, tasks
 from discord.ui import Button, View
 import yfinance as yf
 
-TOKEN = "MTUyODU4NDI1MzQ4MTE2MDg0Ng.GfA811.dy_ISUd9j9SOO0QvHU3Ejc9EMquEvZu4zIP_EE"
+TOKEN = ""
 
 # Trackers
 # watched_stocks: { ticker_symbol: {"last_price": float, "channel_id": int, "user_id": int, "name": str} }
